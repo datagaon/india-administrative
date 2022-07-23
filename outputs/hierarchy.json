@@ -1,34 +1,5 @@
 {
   "JAMMU & KASHMIR": {
-    "Kupwara": [
-      "Kupwara",
-      "Handwara",
-      "Karnah"
-    ],
-    "Badgam": [
-      "Khag",
-      "Beerwah",
-      "Khansahib",
-      "Budgam",
-      "Chadoora",
-      "Charar- E- Shrief"
-    ],
-    "Leh(Ladakh)": [
-      "Leh",
-      "Nubra",
-      "Khalsi"
-    ],
-    "Kargil": [
-      "Kargil",
-      "Sanku",
-      "Zanskar"
-    ],
-    "Punch": [
-      "Haveli",
-      "Mandi",
-      "Mendhar",
-      "Surankote"
-    ],
     "Rajouri": [
       "Thanamandi",
       "Darhal",
@@ -44,6 +15,66 @@
       "Bani",
       "Kathua",
       "Hiranagar"
+    ],
+    "Doda": [
+      "Doda",
+      "Thathri",
+      "Gandoh",
+      "Bhaderwah"
+    ],
+    "Ramban": [
+      "Banihal",
+      "Ramban"
+    ],
+    "Kishtwar": [
+      "Kishtwar",
+      "Marwah",
+      "Chhatroo",
+      "Atholi (Paddar)"
+    ],
+    "Udhampur": [
+      "Udhampur",
+      "Chenani",
+      "Ramnagar",
+      "Majalta"
+    ],
+    "Reasi": [
+      "Gool-Gulabgarh",
+      "Reasi"
+    ],
+    "Jammu": [
+      "Akhnoor",
+      "Jammu",
+      "Ranbir Singh Pora",
+      "Bishnah"
+    ],
+    "Samba": [
+      "Samba"
+    ],
+    "Poonch": [
+      "Haveli",
+      "Mandi",
+      "Mendhar",
+      "Surankote"
+    ],
+    "Kupwara": [
+      "Kupwara",
+      "Handwara",
+      "Karnah"
+    ],
+    "Badgam": [
+      "Khag",
+      "Beerwah",
+      "Khansahib",
+      "Budgam",
+      "Chadoora",
+      "Charar- E- Shrief"
+    ],
+    "Punch": [
+      "Haveli",
+      "Mandi",
+      "Mendhar",
+      "Surankote"
     ],
     "Baramula": [
       "Sopore",
@@ -90,41 +121,6 @@
       "Kulgam",
       " Devsar",
       "Damhal Hanjipora"
-    ],
-    "Doda": [
-      "Doda",
-      "Thathri",
-      "Gandoh",
-      "Bhaderwah"
-    ],
-    "Ramban": [
-      "Banihal",
-      "Ramban"
-    ],
-    "Kishtwar": [
-      "Kishtwar",
-      "Marwah",
-      "Chhatroo",
-      "Atholi (Paddar)"
-    ],
-    "Udhampur": [
-      "Udhampur",
-      "Chenani",
-      "Ramnagar",
-      "Majalta"
-    ],
-    "Reasi": [
-      "Gool-Gulabgarh",
-      "Reasi"
-    ],
-    "Jammu": [
-      "Akhnoor",
-      "Jammu",
-      "Ranbir Singh Pora",
-      "Bishnah"
-    ],
-    "Samba": [
-      "Samba"
     ]
   },
   "HIMACHAL PRADESH": {
@@ -7301,6 +7297,18 @@
       "Ferrargunj",
       "Port Blair",
       "Little Andaman"
+    ]
+  },
+  "LADAKH": {
+    "Leh": [
+      "Leh",
+      "Nubra",
+      "Khalsi"
+    ],
+    "Kargil": [
+      "Kargil",
+      "Sanku",
+      "Zanskar"
     ]
   }
 }
